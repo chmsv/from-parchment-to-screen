@@ -2684,7 +2684,7 @@
       ],
       "isBasedOn": {
         "@type": "CreativeWork",
-        "name": "Dante"
+        "name": "Dante Alighieri"
       },
       "keywords": [
         "Ugolino della Gherardesca",
@@ -3880,7 +3880,7 @@
       ],
       "isBasedOn": {
         "@type": "CreativeWork",
-        "name": "Boccacio"
+        "name": "Giovanni Boccaccio"
       },
       "keywords": [
         "Boccacio",

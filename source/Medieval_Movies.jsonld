@@ -1433,10 +1433,7 @@
       "name": "The Adventures of Marco Polo",
       "alternativeHeadline": "The Adventures of Marco Polo",
       "image": "https://www.dropbox.com/scl/fi/fzvrzzp3bulbyd1umsaxr/1938_The-Adventures-of-Marco-Polo.png?rlkey=j7te0sp9czbuxuduf8q46oc23&raw=1",
-      "spatialCoverage": [
-        "Italy",
-        "Japan"
-      ],
+      "spatialCoverage": "Italy",
       "datePublished": "1938",
       "sameAs": "https://boxd.it/3XW4",
       "productionCompany": [
@@ -3883,7 +3880,6 @@
         "name": "Giovanni Boccaccio"
       },
       "keywords": [
-        "Boccacio",
         "Literature",
         "Adventure",
         "Romance"
@@ -6396,7 +6392,7 @@
       "alternativeHeadline": "Genoveffa di Brabante",
       "image": "https://www.dropbox.com/scl/fi/si000su1og2kqf0u2y1qe/1964_The-Revenge-of-the-Crusader.png?rlkey=kqjgxzx3rzcpp5exo5nf43ypz&raw=1",
       "spatialCoverage": [
-        "The Netherlands",
+        "Netherlands",
         "Belgium"
       ],
       "datePublished": "1964",

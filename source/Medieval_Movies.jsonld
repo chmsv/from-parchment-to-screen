@@ -3799,11 +3799,11 @@
       ],
       "temporalCoverage": "6th",
       "genre": [
-        "History"
+        "Legend"
       ],
       "isBasedOn": {
         "@type": "CreativeWork",
-        "name": "William Caxton"
+        "name": "Sir Thomas Malory"
       },
       "keywords": [
         "King Arthur",

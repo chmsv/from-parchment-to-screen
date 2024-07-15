@@ -1396,7 +1396,7 @@
           "name": "William Keighley"
         }
       ],
-      "temporalCoverage": "6th",
+      "temporalCoverage": "12th",
       "genre": [
         "Fiction"
       ],
@@ -1406,7 +1406,7 @@
       },
       "keywords": [
         "Robin Hood",
-        "Richard I",
+        "King Richard the Lionheart",
         "Adventure"
       ],
       "description": "Intro",
@@ -3112,7 +3112,7 @@
           "name": "James Tinling"
         }
       ],
-      "temporalCoverage": "14th",
+      "temporalCoverage": "12th",
       "genre": [
         "Fiction"
       ],
@@ -3176,7 +3176,7 @@
       ],
       "isBasedOn": {
         "@type": "CreativeWork",
-        "name": "CharlesPerrault"
+        "name": "Charles Perrault"
       },
       "keywords": [
         "Fairy tale",
@@ -3207,7 +3207,7 @@
     },
     {
       "@type": "Movie",
-      "name": "The Evil Forest ",
+      "name": "The Evil Forest",
       "alternativeHeadline": "Parsifal",
       "image": "https://www.dropbox.com/scl/fi/iyc5vwmqf9jyxztwcjbdu/1951_The-Evil-Forest.png?rlkey=qedksdke34ub5xgvlkm8eg73q&raw=1",
       "spatialCoverage": [
@@ -5268,7 +5268,7 @@
           "name": "George Sherman"
         }
       ],
-      "temporalCoverage": "14th",
+      "temporalCoverage": "13th",
       "genre": [
         "Fiction"
       ],
